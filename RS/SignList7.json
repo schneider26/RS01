@@ -1,0 +1,128 @@
+[
+  {
+    "Number": "7.1",
+    "Name": "Пункт медицинской помощи",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.1.png"
+  },
+  {
+    "Number": "7.2",
+    "Name": "Больница",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.2.png"
+  },
+  {
+    "Number": "7.3",
+    "Name": "Автозаправочная станция",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.3.png"
+  },
+  {
+    "Number": "7.4",
+    "Name": "Техническое обслуживание автомобилей",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.4.png"
+  },
+  {
+    "Number": "7.5",
+    "Name": "Мойка автомобилей",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.5.png"
+  },
+  {
+    "Number": "7.6",
+    "Name": "Телефон",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.6.png"
+  },
+  {
+    "Number": "7.7",
+    "Name": "Пункт питания",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.7.png"
+  },
+  {
+    "Number": "7.8",
+    "Name": "Питьевая вода",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.8.png"
+  },
+  {
+    "Number": "7.9",
+    "Name": "Гостиница или мотель",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.9.png"
+  },
+  {
+    "Number": "7.10",
+    "Name": "Кемпинг",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.10.png"
+  },
+  {
+    "Number": "7.11",
+    "Name": "Место отдыха",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.11.png"
+  },
+  {
+    "Number": "7.12",
+    "Name": "Пост дорожно-патрульной службы",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.12.png"
+  },
+  {
+    "Number": "7.13",
+    "Name": "Полиция",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.13.png"
+  },
+  {
+    "Number": "7.14",
+    "Name": "Пункт транспортного контроля",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.14.png"
+  },
+  {
+    "Number": "7.15",
+    "Name": "Зона приема радиостанции, передающей информацию о дорожном движении",
+    "Rule": "Участок дороги, на котором осуществляется приём передач радиостанции на частоте, указанной на знаке.",
+    "Image": "https://media.am.ru/pdd/sign/m/7.15.png"
+  },
+  {
+    "Number": "7.16",
+    "Name": "Зона радиосвязи с аварийными службами",
+    "Rule": "Участок дороги, на котором действует система радиосвязи с аварийными службами в гражданском диапазоне 27 МГц.",
+    "Image": "https://media.am.ru/pdd/sign/m/7.16.png"
+  },
+  {
+    "Number": "7.17",
+    "Name": "Бассейн или пляж",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.17.png"
+  },
+  {
+    "Number": "7.18",
+    "Name": "Туалет",
+    "Rule": "",
+    "Image": "https://media.am.ru/pdd/sign/m/7.18.png"
+  },
+  {
+    "Number": "7.19",
+    "Name": "Телефон экстренной связи",
+    "Rule": "Указывает место, где находится телефон для вызова оперативных служб.",
+    "Image": "https://media.am.ru/pdd/sign/m/7.19.png"
+  },
+  {
+    "Number": "7.20",
+    "Name": "Огнетушитель",
+    "Rule": "Указывает место, где находится огнетушитель.",
+    "Image": "https://media.am.ru/pdd/sign/m/7.20.png"
+  },
+  {
+    "Number": "7.21",
+    "Name": "Автозаправочная станция с возможностью зарядки электромобилей.",
+    "Rule": "",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/7.21_Russian_road_sign.svg/1200px-7.21_Russian_road_sign.svg.png"
+  }
+]
